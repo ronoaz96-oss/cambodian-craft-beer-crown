@@ -10,8 +10,8 @@
 
         <!-- Logo -->
         <a href="/" class="flex items-center gap-2">
-          
-          <span class="text-gray-900 font-semibold text-lg tracking-tight">Logo</span>
+
+          <img src="/image/logo.png" alt="" class="w-35">
         </a>
 
         <!-- Burger -->
@@ -29,7 +29,7 @@
 
     <!-- Overlay -->
     <label
-      for="menu-toggle"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
+      for="menu-toggle"
       class="fixed inset-0 z-40 bg-black/30 opacity-0 pointer-events-none transition-opacity duration-300
              peer-checked:opacity-100 peer-checked:pointer-events-auto"
     />
