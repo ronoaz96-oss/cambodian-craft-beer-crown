@@ -66,28 +66,13 @@
           </label>
         </li>
         <li>
-          <label for="menu-toggle">
-            <a href="/about" class="flex items-center gap-3 px-6 py-4 text-gray-700 hover:bg-indigo-50 hover:text-indigo-600 transition-colors">
-              <span class="text-lg">👤</span>
-              <span class="font-medium">About</span>
-            </a>
-          </label>
+          <!--Add you page -->
         </li>
         <li>
-          <label for="menu-toggle">
-            <a href="/services" class="flex items-center gap-3 px-6 py-4 text-gray-700 hover:bg-indigo-50 hover:text-indigo-600 transition-colors">
-              <span class="text-lg">⚙️</span>
-              <span class="font-medium">Services</span>
-            </a>
-          </label>
+          <!--Add you page -->
         </li>
         <li>
-          <label for="menu-toggle">
-            <a href="/contact" class="flex items-center gap-3 px-6 py-4 text-gray-700 hover:bg-indigo-50 hover:text-indigo-600 transition-colors">
-              <span class="text-lg">✉️</span>
-              <span class="font-medium">Contact</span>
-            </a>
-          </label>
+          <!--Add you page -->
         </li>
       </ul>
     </nav>
