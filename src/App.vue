@@ -17,7 +17,7 @@
         <!-- Burger -->
         <label
           for="menu-toggle"
-          class="burger p-2 rounded-lg text-gray-600 hover:bg-gray-100 active:bg-gray-200 transition-colors cursor-pointer"
+          class="burger p-2 rounded-lg text-gra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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y-600 hover:bg-gray-100 active:bg-gray-200 transition-colors cursor-pointer"
           aria-label="Toggle menu"
         >
           <span></span>
@@ -29,7 +29,7 @@
 
     <!-- Overlay -->
     <label
-      for="menu-toggle"
+      for="menu-toggle"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
       class="fixed inset-0 z-40 bg-black/30 opacity-0 pointer-events-none transition-opacity duration-300
              peer-checked:opacity-100 peer-checked:pointer-events-auto"
     />
